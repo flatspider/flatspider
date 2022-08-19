@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @flatspider
-- 👀 I’m interested in using computers to make my world move faster.
+- 👋 Hi, I’m Conor
+- Welcome to my page!
+- 👀 
 
 
 <!---
