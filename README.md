@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Conor
 - Welcome to my page!
+- Currently studying Javascript and React as part of [Carolina Code School](https://carolinacodeschool.org)!
+- My demo day is March 24th.
 - 👀 
 
 
