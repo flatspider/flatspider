@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Conor
 - Welcome to my page!
-- Currently bulding in Javascript, React, and Django as part of [Carolina Code School](https://carolinacodeschool.org)!
+- Currently bulding web applications in Django as part of [Carolina Code School](https://carolinacodeschool.org)!
 - My demo day is March 24th.
 - 👀 
 
