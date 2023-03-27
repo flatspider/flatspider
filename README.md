@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Conor
 - Welcome to my page!
-- Currently bulding web applications in Django as part of [Carolina Code School](https://carolinacodeschool.org)!
-- My demo day is March 24th.
+- I built [Editori AI](https://editoriai.com) to experiment with AI generated text. 
+- Currently looking for a programming job based in Greenville, SC!
+- I am a friendly developer learning more about React and Django every day.
+- My full work history is here: [LinkedIn](https://www.linkedin.com/in/conor-s-mcmanamon/)
 - 👀 
 
 
