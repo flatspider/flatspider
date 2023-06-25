@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Conor
 - Welcome to my page!
-- I built [Editori AI](http://www.editoriai.com) to experiment with AI generated text. 
-- Currently looking for a programming job based in Greenville, SC!
-- I am a friendly developer learning more about React and Django every day.
+- Send a letter to the NYT using [Editori AI](http://www.editoriai.com), a tool built in Django using the OpenAI API. 
+- Currently writing C# and JavaScript code for [Agulus](https://agulus.com/) in Greenville, SC!
+- I am a friendly developer empowering American agriculture every day.
 - My full work history is here: [LinkedIn](https://www.linkedin.com/in/conor-s-mcmanamon/)
 - 👀 
 
