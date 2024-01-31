@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Conor
 - Welcome to my page!
-- Send a letter to the NYT using [Editori AI](http://www.editoriai.com), a tool built in Django using the OpenAI API. 
-- Currently writing C# and JavaScript code for [Agulus](https://agulus.com/) in Greenville, SC!
-- I am a friendly developer empowering American agriculture every day.
-- My full work history is here: [LinkedIn](https://www.linkedin.com/in/conor-s-mcmanamon/)
+- Send a letter to the NYT using [Editori AI](https://ccs-final-project-flatspider.herokuapp.com/), a tool I built in the Django web framework using the NYT and OpenAI API. 
+- Currently programming for [Agulus](https://agulus.com/) in Greenville, SC!
+- I work with JS/C#/SQL/Azure to improve commodity contract management.
+- Check out my work history here: [LinkedIn](https://www.linkedin.com/in/conor-s-mcmanamon/)
 - 👀 
 
 
