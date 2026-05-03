@@ -4,7 +4,6 @@
 - I just finished shipping an AI copilot for payroll operations at [Thera](https://www.getthera.com/) — concept to production in two weeks.
 - I live in New York City! I love public transit and built a beautiful bus stop app: [Bauhaus Bus](https://bauhausbus.com/).
 - Get a summary of your weekly Google Calendar at [getaweeklyupdate.com](https://www.getaweeklyupdate.com/)
-- Send a letter to the NYT using [Editori AI](https://ccs-final-project-flatspider.herokuapp.com/), a tool I built in 2023 using the NYT and OpenAI API. 
 - My most recent job was working in JS/C#/SQL/Azure to improve agricultural contract management for [Agulus](https://agulus.com/).
 - Check me out here: [LinkedIn](https://www.linkedin.com/in/conor-s-mcmanamon/)
 - 👀 
